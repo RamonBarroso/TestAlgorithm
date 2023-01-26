@@ -1,0 +1,15 @@
+/home/ramonbarroso/TesteConcat/bin/Debug/net7.0/TesteConcat
+/home/ramonbarroso/TesteConcat/bin/Debug/net7.0/TesteConcat.deps.json
+/home/ramonbarroso/TesteConcat/bin/Debug/net7.0/TesteConcat.runtimeconfig.json
+/home/ramonbarroso/TesteConcat/bin/Debug/net7.0/TesteConcat.dll
+/home/ramonbarroso/TesteConcat/bin/Debug/net7.0/TesteConcat.pdb
+/home/ramonbarroso/TesteConcat/obj/Debug/net7.0/TesteConcat.csproj.AssemblyReference.cache
+/home/ramonbarroso/TesteConcat/obj/Debug/net7.0/TesteConcat.GeneratedMSBuildEditorConfig.editorconfig
+/home/ramonbarroso/TesteConcat/obj/Debug/net7.0/TesteConcat.AssemblyInfoInputs.cache
+/home/ramonbarroso/TesteConcat/obj/Debug/net7.0/TesteConcat.AssemblyInfo.cs
+/home/ramonbarroso/TesteConcat/obj/Debug/net7.0/TesteConcat.csproj.CoreCompileInputs.cache
+/home/ramonbarroso/TesteConcat/obj/Debug/net7.0/TesteConcat.dll
+/home/ramonbarroso/TesteConcat/obj/Debug/net7.0/refint/TesteConcat.dll
+/home/ramonbarroso/TesteConcat/obj/Debug/net7.0/TesteConcat.pdb
+/home/ramonbarroso/TesteConcat/obj/Debug/net7.0/TesteConcat.genruntimeconfig.cache
+/home/ramonbarroso/TesteConcat/obj/Debug/net7.0/ref/TesteConcat.dll

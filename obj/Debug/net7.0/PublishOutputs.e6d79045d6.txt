@@ -1,0 +1,5 @@
+/home/ramonbarroso/TesteConcat/bin/Debug/net7.0/publish/TestAlgorithm
+/home/ramonbarroso/TesteConcat/bin/Debug/net7.0/publish/TestAlgorithm.dll
+/home/ramonbarroso/TesteConcat/bin/Debug/net7.0/publish/TestAlgorithm.deps.json
+/home/ramonbarroso/TesteConcat/bin/Debug/net7.0/publish/TestAlgorithm.runtimeconfig.json
+/home/ramonbarroso/TesteConcat/bin/Debug/net7.0/publish/TestAlgorithm.pdb
